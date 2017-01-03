@@ -1,5 +1,8 @@
-<?php
-	header("Location: http://localhost/citi/"); /* Redirect browser */
-	// echo "oi";
-	
-?>
+<html>
+ <head>
+  <title>PHP Test</title>
+ </head>
+ <body>
+ <?php echo '<p>Hello World</p>'; ?> 
+ </body>
+</html>
